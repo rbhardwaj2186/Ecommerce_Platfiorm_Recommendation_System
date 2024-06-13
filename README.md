@@ -1,7 +1,7 @@
 # Ecommerce_Platfiorm_Recommendation_System
  Predict Home Ecommerce search-product relevance
 
-![Uploading 1_mn6npB2jdqMXgZKVGDDz_w.png…]()
+![AI-Based-Recommendation-System](https://github.com/rbhardwaj2186/Ecommerce_Platfiorm_Recommendation_System/assets/143745073/2000a6a4-f015-47c6-9b34-92a5be31afdc)
 
 
 ## Project Description
