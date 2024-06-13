@@ -1,14 +1,12 @@
 # Ecommerce_Platfiorm_Recommendation_System
  Predict Home Ecommerce search-product relevance
-# Ecommerce_Platfiorm_Recommendation_System
- Predict Home Ecommerce search-product relevance
-# Ecommerce Platform Search Relevance Prediction
+
+![Uploading 1_mn6npB2jdqMXgZKVGDDz_w.png…]()
+
 
 ## Project Description
 
 This project involves a dataset containing a variety of products and real customer search terms from an ecommerce platform's website. The challenge is to predict a relevance score for the provided combinations of search terms and products. To create the ground truth labels, the ecommerce platform has crowdsourced the search/product pairs to multiple human raters.
-
-![How to Integrate Recommendation Engine with E-commerce Platforms](images/How-to-Integrate-Recommendation-Engine-with-E-commerce-Platforms.jpg)
 
 
 
